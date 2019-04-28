@@ -18,16 +18,3 @@ elif bmi >= 35:
 else:
 	print('體重正常') 
 
-#elif weight / (height ** 2) >= 18.5 and < 24
-#	print('體重正常')
-
-#if age < 13:
-#	print('目前念國小')
-#elif age >= 13 and age < 18:
-#	print('目前唸國中')
-#elif age >= 18 and age < 23:
-#	print('目前還是大學生吧！')
-#elif age >= 75:
-#	print('您退休了吧？')
-#else:
-#	print('現在您應該是社會人士囉！')
